@@ -14,3 +14,7 @@ Salinas Condon, Erick Javier
 2020069046
 es2020069046@virtual.upt.pe
 
+Concha Llaca, Gerardo Alejandro
+2017057849
+gc2017057849@virtual.upt.pe
+
