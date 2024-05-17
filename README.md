@@ -8,7 +8,7 @@ jz2020066924@virtual.upt.pe
 
 Mayner Gonzalo Anahua Coaquira
 2020067145
-ma2020067145@virtual.daupt.pe
+ma2020067145@virtual.upt.pe
 
 Salinas Condon, Erick Javier 
 2020069046
