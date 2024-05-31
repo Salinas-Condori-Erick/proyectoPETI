@@ -2,26 +2,14 @@
 
 # Integrantes:
 
-Justin Zinedine Zevallos Purca
-2020066924
+Justin Zinedine Zevallos Purca - 2020066924
+
 jz2020066924@virtual.upt.pe
 
-Mayner Gonzalo Anahua Coaquira
-2020067145
+Mayner Gonzalo Anahua Coaquira2020067145
+
 ma2020067145@virtual.upt.pe
 
-Salinas Condon, Erick Javier 
-2020069046
+Salinas Condon, Erick Javier 2020069046
+
 es2020069046@virtual.upt.pe
-
-
-# Herramienta básica para PETI
-
-# ejecuta como administrador powershell
-pip install mypy
-pip install streamlit
-
-# Para ejecutar y mostrar en nevagador
-streamlit run Home.py
-
-
